@@ -1,0 +1,13 @@
+{
+  "name": "Suivi Arbitres Handball",
+  "short_name": "Arbitres HB",
+  "description": "Application de suivi et d'évaluation des arbitres de handball — v0.3.2",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f0",
+  "theme_color": "#1D3A7A",
+  "orientation": "any",
+  "icons": [
+    { "src": "logo.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
